@@ -26,7 +26,6 @@ namespace DiscordWebhookProxy
             services.AddHttpClient(nameof(DiscordService), client => { client.BaseAddress = new Uri("https://discordapp.com/api/webhooks/"); });
             services.AddDiscordRest(services => Configuration["DiscordToken"]);
             
-
             services.AddSingleton<IDictionary<string, IWebhookParser>>(provider => {
                 return new Dictionary<string, IWebhookParser>
                 {

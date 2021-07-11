@@ -37,7 +37,7 @@ namespace DiscordWebhookProxy
                     })
                     .ConfigureAppConfiguration((context, builder) =>
                     {
-                        builder.AddKeyPerFile("/var/secrets", optional: true);
+                        builder.AddKeyPerFile("/run/secrets", optional: true);
                         if (context.HostingEnvironment.IsDevelopment())
                         {
                             builder.AddUserSecrets("17f430af-18cb-4b6f-89fe-8694b3e8ed6a");
