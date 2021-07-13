@@ -7,7 +7,7 @@ Based on the README.md template found at https://github.com/othneildrew/Best-REA
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![Build Status][build-sheld]][build-url]
-[![C# Discord][discord-sheld]][discord-url]
+[![Discord][discord-shield]][discord-url]
 
 <br />
 
