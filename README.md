@@ -7,7 +7,7 @@ Based on the README.md template found at https://github.com/othneildrew/Best-REA
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![Build Status][build-sheld]][build-url]
-
+[![C# Discord][discord-sheld]][discord-url]
 
 <br />
 
@@ -151,3 +151,5 @@ Project Link: [https://github.com/discord-csharp/DiscordWebhookProxy](https://gi
 [license-url]: https://github.com/discord-csharp/DiscordWebhookProxy/blob/master/LICENSE.txt
 [build-sheld]: https://img.shields.io/github/workflow/status/discord-csharp/DiscordWebhookProxy/build-csharprepl?style=for-the-badge
 [build-url]: https://github.com/discord-csharp/DiscordWebhookProxy/actions/workflows/build-container.yml
+[discord-shield]: https://img.shields.io/discord/143867839282020352?label=C%23%20Community&ogo=discord&style=for-the-badge
+[discord-url]: https://discord.gg/csharp
