@@ -139,17 +139,17 @@ Project Link: [https://github.com/discord-csharp/DiscordWebhookProxy](https://gi
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/discord-csharp/DiscordWebhookProxy.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/discord-csharp/DiscordWebhookProxy.svg?style=for-the-badge&logo=github
 [contributors-url]: https://github.com/discord-csharp/DiscordWebhookProxy/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/discord-csharp/DiscordWebhookProxy.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/discord-csharp/DiscordWebhookProxy.svg?style=for-the-badge&logo=github
 [forks-url]: https://github.com/discord-csharp/DiscordWebhookProxy/network/members
-[stars-shield]: https://img.shields.io/github/stars/discord-csharp/DiscordWebhookProxy.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/discord-csharp/DiscordWebhookProxy.svg?style=for-the-badge&logo=github
 [stars-url]: https://github.com/discord-csharp/DiscordWebhookProxy/stargazers
-[issues-shield]: https://img.shields.io/github/issues/discord-csharp/DiscordWebhookProxy.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/discord-csharp/DiscordWebhookProxy.svg?style=for-the-badge&logo=github
 [issues-url]: https://github.com/discord-csharp/DiscordWebhookProxy/issues
 [license-shield]: https://img.shields.io/github/license/discord-csharp/DiscordWebhookProxy.svg?style=for-the-badge
 [license-url]: https://github.com/discord-csharp/DiscordWebhookProxy/blob/master/LICENSE.txt
-[build-sheld]: https://img.shields.io/github/workflow/status/discord-csharp/DiscordWebhookProxy/build-csharprepl?style=for-the-badge
+[build-sheld]: https://img.shields.io/github/workflow/status/discord-csharp/DiscordWebhookProxy/build-csharprepl?style=for-the-badge&logo=githubactions
 [build-url]: https://github.com/discord-csharp/DiscordWebhookProxy/actions/workflows/build-container.yml
-[discord-shield]: https://img.shields.io/discord/143867839282020352?label=C%23%20Community&ogo=discord&style=for-the-badge
+[discord-shield]: https://img.shields.io/discord/143867839282020352?label=C%23%20Community&logo=discord&style=for-the-badge
 [discord-url]: https://discord.gg/csharp
